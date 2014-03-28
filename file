@@ -1,0 +1,1616 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<meta content="Shoutcast, Shoutcasts, tournaments, competitions, replays, fansite, replay reviews, zero hour, zh, command and conquer, command and conquer replays, zh replays, zero hour replays, havard, bonin, EA games, electronic arts, EA LA, china, GLA, USA, air force, laser, super weapon, infantry, nuke, tank, toxin, demo, stealth, boss generals, boss gen, boss gen replays, boss generals replays" name="keywords"/>
+		<meta content="Watch over 1189 Supreme Commander replays, or upload your own!" name="description"/>
+					<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Supreme Commander Replays - GameReplays.org</title>
+				<link rel="shortcut icon" href="http://www.gamereplays.org/logo2.ico" />
+		<link href="http://www.gamereplays.org/min/g=replays_css" rel="stylesheet" type="text/css" />
+						<!--[if IE 6]>
+			<link href="http://www.gamereplays.org/community/style_images/gr_ie6_fixes.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+<script type="text/javascript">
+	var video_system_url = "";
+	var memberSubscriber = "";
+	var base_url_main_portal = 'http://www.gamereplays.org/portals.php?';
+</script>
+<script type="text/javascript" src="http://www.gamereplays.org/min/g=jquery_header"></script>
+<script type="text/javascript">
+	var ipb_var_root_url = 'http://www.gamereplays.org/';
+	ZeroClipboard.setMoviePath( ipb_var_root_url + 'javascript/ZeroClipboard.swf' );
+</script>
+	<script language="JavaScript" type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+	<script language="JavaScript" type="text/javascript">getTrigger('3145');</script>
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+	<script type="text/javascript">
+	  GS_googleAddAdSenseService("ca-pub-0552167244969122");
+	  GS_googleEnableAllServices();
+	</script>
+	<script type="text/javascript">
+	  GA_googleAddSlot("ca-pub-0552167244969122", "GameReplays_ROS_160x600");
+	  GA_googleAddSlot("ca-pub-0552167244969122", "GameReplays_ROS_300x250");
+	  GA_googleAddSlot("ca-pub-0552167244969122", "GameReplays_ROS_banner");
+	</script>
+	<script type="text/javascript">
+	  GA_googleFetchAds();
+	</script>
+
+
+<script type="text/javascript">
+	 //<![CDATA[
+	 var ipb_var_st            = "";
+	 var ipb_lang_tpl_q1       = "Please enter a page number to jump to between 1 and";
+	 var ipb_var_s             = "75b2fae9021641ca2813019edfe7faf5";
+	 var ipb_var_phpext        = "php";
+	 var ipb_var_base_url      = "http://www.gamereplays.org/community/index.php?s=75b2fae9021641ca2813019edfe7faf5&amp;&";
+	 var ipb_var_image_url     = "http://www.gamereplays.org/community/style_images/beta";
+	 var ipb_input_f           = "";
+	 var ipb_input_t           = "";
+	 var ipb_input_p           = "";
+	 var ipb_var_cookieid      = "gamerep_new";
+	 var ipb_var_cookie_domain = ".gamereplays.org";
+	 var ipb_var_cookie_path   = "/";
+	 var ipb_md5_check         = "880ea6a14ea49e853634fbdc5015a024";
+	 var ipb_new_msgs          = "";
+	 var use_enhanced_js       = "0";
+	 var use_charset 		   = "iso-8859-1";
+	 var ipb_myass_chars_lang  = "Not enough characters";
+	 var showPage 	= "";
+	 //]]>
+</script>
+<script type="text/javascript" src="http://www.gamereplays.org/min/g=replays_ui_ipb"></script>
+
+
+<script type="text/javascript">
+	//<![CDATA[
+
+	var is_member = 0
+	var replay_id = null
+	var game_id = 23
+	var downloads = 
+	var max_post_length = 150000
+	var base_url_replaysystem_root = 'http://www.gamereplays.org/'
+	var base_url_replaysystem = 'http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;'
+	var image_url = '/community/replaysystem/images/'
+	var start = 0
+
+	// Like / Dislike voting
+	var voting = false
+	var disable_review_voting = 0
+
+	// Wubbing
+	var wubbing = false
+	var has_downloaded = 0
+	var is_own_replay = 0
+
+	$(document).ready(function() {
+		
+				
+		
+
+		
+ 	});
+	
+	//]]>
+</script>
+		<script language="JavaScript" type="text/javascript">var random_class = "idteOhCQAq";</script>
+</head>
+<body style="background-image: url(http://www.gamereplays.org/community/gr_common/images/games/23/header.jpg); background-repeat: no-repeat;">
+		<div class="dim_background"></div>	<div class="idteOhCQAq" style="display: none"></div>
+		<div class="space_top" style="display: none"></div>
+				<div class="my_assistant">
+	<div id="get-myassistant" style="display:none;width:400px;text-align:left;">
+		<div class="borderwrap">
+			 <div class="maintitle" id="myass-drag" title="Click and hold to drag this window">
+				  <div style="float:right; padding-right:2px;"><a href="#" onclick='document.getElementById("get-myassistant").style.display="none"'><img src="http://www.gamereplays.org/community/style_images/beta//xbutton.gif" alt="Close My Assistant" title="Close My Assistant" /></a></div>
+				  <div>My Assistant</div>
+			 </div>
+			 <div id="myass-content" style="overflow-x:auto;"></div>
+		 </div>
+	</div>
+	<div id="loading-layer" style="display:none;width:200px;height:50px;background:#FFF;padding:10px;text-align:center;border:1px solid #000"><div style="font-weight:bold" id="loading-layer-text">Loading. Please Wait...</div><br /><img style="border: 0" src="http://www.gamereplays.org/community/style_images/beta/loading.gif" alt="Loading..."/></div>
+</div>
+    					<div class="page_container">
+				<div class="header_container">
+			            			<div class="guest_box">
+	    	<a href="http://www.gamereplays.org/community/index.php?s=75b2fae9021641ca2813019edfe7faf5&amp;act=Reg&amp;CODE=00" id="register_link">Join the community!</a>
+	        <a id="login_link" onclick="javascript:document.getElementById('poopdick').style.display='none'">Sign in</a>
+
+	        <div id="login_box">
+				<form action="http://www.gamereplays.org/community/index.php?s=75b2fae9021641ca2813019edfe7faf5&amp;act=Login&amp;CODE=01&amp;CookieDate=1&amp;return=" method="post" name="LOGIN" onsubmit="return ValidateForm()">
+					<input type="text" class="logininput" value="User Name" name="UserName" onclick="removeElement()" onfocus="if (this.value == 'User Name') this.value = '';"><input type="password" class="logininput" value="Password" name="PassWord" onfocus="if (this.value == 'Password') this.value = '';">
+	                <input class="rememberme" type="checkbox" name="CookieDate" value="1" checked="checked" />Remember Me
+	                <input class="invisible" type="checkbox" name="Privacy" value="1" />Invisible
+	                <div id="lostpw"><a class="loginlink" href="http://www.gamereplays.org/community/index.php?s=75b2fae9021641ca2813019edfe7faf5&amp;act=Reg&amp;CODE=10">Lost Password</a></div>
+	                <div id="login"><input type="submit" action="javascript:document.LOGIN.submit()" value="Login"><a class="loginlink" id="cancel_login" onclick="javascript:document.getElementById('poopdick').style.display=''">Cancel</a></div>
+				</form>
+			</div>
+		</div>
+	            <div id="game_menu_trigger">
+	            <a id="gr_logo_link" href="http://www.gamereplays.org/portals.php"></a> <a  id="menu_trigger">&nbsp;</a>
+				<div id="game_menu_ajax">
+	            							
+<script type='text/javascript'>
+	//<![CDATA[
+
+	$(document).ready(function() {
+		$('#menu_close').click(function() {
+			$('#game_menu_ajax').hide(-1000);
+			return false;
+		});
+   });
+	//]]>
+</script>
+
+<div id="game_menu_arrow"></div>
+<div class="content_title_area"><a id="menu_close"></a>Explore GameReplays...</div>
+<div id="game_menu">
+<ul id="game_menu_nav">
+	<li id="85" class="game_menu_nav_item">
+    	<ul id="subnav_85" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/airmech/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-airmech-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/airmech/replays.php?game=85">Replays</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/9/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/airmech/">AirMech</a>
+	</li>
+	<li id="4" class="game_menu_nav_item">
+    	<ul id="subnav_4" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/battleformiddleearth/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-BFME-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/battleformiddleearth/replays.php?game=4">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/battleformiddleearth/videos.php?game=4">Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/battleformiddleearth/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/battleformiddleearth/portals.php?show=page&amp;name=battle-for-middle-earth-online-community">Online Community</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/battleformiddleearth/portals.php?show=page&amp;name=game_info">Game Info</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/4/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/battleformiddleearth/">Battle for Middle Earth</a>
+	</li>
+	<li id="50" class="game_menu_nav_item">
+    	<ul id="subnav_50" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/battleformiddleearth2-1.07/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-BT2DC-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/battleformiddleearth2-1.07/replays.php?game=50">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/battleformiddleearth2-1.07/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/battleformiddleearth2-1.07/portals.php?show=index&amp;name=game_info">Patch 1.08 Info</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/50/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/battleformiddleearth2-1.08/">Battle for Middle Earth 2 - 1.08</a>
+	</li>
+	<li id="14" class="game_menu_nav_item">
+    	<ul id="subnav_14" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/cncgenerals/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-CCG-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/cncgenerals/replays.php?game=14">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/cncgenerals/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/cncgenerals/portals.php?show=page&amp;name=game_info">Game Info</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/cnczerohour/portals.php?show=index&amp;name=gentool">GenTool</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.clanwars.cc/league_home.aspx?GID=13">Clanwars</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/14/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/cncgenerals/">CNC Generals</a>
+	</li>
+	<li id="2" class="game_menu_nav_item">
+    	<ul id="subnav_2" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/cnczerohour/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-ZH-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/cnczerohour/replays.php?game=2">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/cnczerohour/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/cnczerohour/portals.php?show=news&amp;news_id=940924">World Series 2014</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/cnczerohour/portals.php?show=index&amp;name=gentool">GenTool</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.clanwars.cc/league_home.aspx?GID=12">Clanwars</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/2/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/cnczerohour/">CNC Zero Hour</a>
+	</li>
+	<li id="22" class="game_menu_nav_item">
+    	<ul id="subnav_22" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/commandandconquer3/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-CNC3-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/commandandconquer3/replays.php?game=22">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/commandandconquer3/videos.php?game=22&amp;show=index">Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/commandandconquer3/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/commandandconquer3/portals.php?show=page&amp;name=cnc3tw-gameinfo-master_index">Game Info</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/commandandconquer3/portals.php?show=plugin&amp;do=tournaments">Tournaments</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/22/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/commandandconquer3/">Command and Conquer 3</a>
+	</li>
+	<li id="59" class="game_menu_nav_item">
+    	<ul id="subnav_59" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/commandandconquer4/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-commandandconquer4-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/commandandconquer4/replays.php?game=59&amp;tab=popular&amp;show=index&amp;tab_new=upcoming">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/commandandconquer4/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/commandandconquer4/portals.php?show=index&amp;name=cnc4-gameinfo">Game Info</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/commandandconquer4/videos.php?game=59">Videos</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.clanwars.cc/league_home.aspx?GID=82">Clanwars</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/59/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/commandandconquer4/">Command and Conquer 4</a>
+	</li>
+	<li id="25" class="game_menu_nav_item">
+    	<ul id="subnav_25" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/companyofheroes/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-CoH-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/companyofheroes/replays.php?game=25">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/companyofheroes/videos.php?game=25">Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/companyofheroes/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/companyofheroes/portals.php?show=page&amp;name=game_info">Game Info</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/community/index.php?showforum=1407">Tournaments</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/25/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/companyofheroes/">Company of Heroes</a>
+	</li>
+	<li id="83" class="game_menu_nav_item">
+    	<ul id="subnav_83" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/companyofheroes2/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-company_of_heroes_2-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/companyofheroes2/replays.php?game=83">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/companyofheroes2/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/companyofheroes2/videos.php?game=83">Videos</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/9/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/companyofheroes2/">Company of Heroes 2</a>
+	</li>
+	<li id="47" class="game_menu_nav_item">
+    	<ul id="subnav_47" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/dawnofwar2/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-dawnofwar2-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/dawnofwar2/replays.php?game=47">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/index.php?showforum=2906">Strategies</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/dawnofwar2/videos.php?game=47">Videos</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/dawnofwar2/portals.php?show=page&amp;name=gros-1-announcement">Tournament</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/47/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/dawnofwar2/">Dawn of War 2</a>
+	</li>
+	<li id="78" class="game_menu_nav_item">
+    	<ul id="subnav_78" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/generals2/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/index.php?showforum=4081">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/generals2/portals.php?show=news_index">News</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/generals2/streams/NetputGR">Streams/Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://gamereplays.org/generals2/portals.php?show=plugin&amp;do=units">Units</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/generals2/portals.php?show=strategies">Strategies</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/78/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/generals2/">Generals 2</a>
+	</li>
+	<li id="89" class="game_menu_nav_item">
+    	<ul id="subnav_89" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/greygoo/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-grey_goo-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/greygoo/portals.php?show=page&amp;name=greygoo-screenshots-and-concept-art">Images</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/89/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/greygoo/">Grey Goo</a>
+	</li>
+	<li id="58" class="game_menu_nav_item">
+    	<ul id="subnav_58" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/heroesofnewerth/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-heroesofnewerth-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/heroesofnewerth/videos.php?game=58">Videos</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/heroesofnewerth/replays.php?game=58">Replays</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/heroesofnewerth/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/heroesofnewerth/portals.php?show=page&amp;name=heroes-index">Heroes Index</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/community/index.php?showforum=3211">Tournaments</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/58/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/heroesofnewerth/">Heroes of Newerth</a>
+	</li>
+	<li id="40" class="game_menu_nav_item">
+    	<ul id="subnav_40" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/kaneswrath/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-KanesWrath-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/kaneswrath/replays.php?game=40">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/kaneswrath/videos.php?game=40">Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/kaneswrath/portals.php?show=page&amp;name=game_info">Game Info</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/kaneswrath/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/kaneswrath/portals.php?show=plugin&amp;do=tournaments">Tournaments</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/40/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/kaneswrath/">Kanes Wrath</a>
+	</li>
+	<li id="66" class="game_menu_nav_item">
+    	<ul id="subnav_66" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/leagueoflegends/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-league_of_legends-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/leagueoflegends/replays.php?game=66">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/leagueoflegends/videos.php?game=66">Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/leagueoflegends/portals.php?show=strategies">Strategies</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/66/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/leagueoflegends/">League of Legends</a>
+	</li>
+	<li id="88" class="game_menu_nav_item">
+    	<ul id="subnav_88" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/novusaeterno/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-novus_aeterno-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/novusaeterno/videos.php?game=88&amp;show=index">Videos</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/9/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/novusaeterno/">Novus Aeterno</a>
+	</li>
+	<li id="84" class="game_menu_nav_item">
+    	<ul id="subnav_84" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/planetaryannihilation/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-planetary_annihilation-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/planetaryannihilation/portals.php?show=page&amp;name=game-info">Game Info</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/planetaryannihilation/videos.php?game=84&amp;show=index">Videos</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/9/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/planetaryannihilation/">Planetary Annihilation</a>
+	</li>
+	<li id="6" class="game_menu_nav_item">
+    	<ul id="subnav_6" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/redalert3/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-redalert3-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/redalert3/replays.php?game=6">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/redalert3/videos.php?game=6">Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/redalert3/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/redalert3/portals.php?show=page&amp;name=game_info">Game Info</a>
+            </li>
+                    <li class="col2">
+            <a href="">5th Anniversary</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/6/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/redalert3/">Red Alert 3</a>
+	</li>
+	<li id="52" class="game_menu_nav_item">
+    	<ul id="subnav_52" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/rotwkunofficial202/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-rotwk202-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/rotwkunofficial202/replays.php?game=52">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/rotwkunofficial202/videos.php?game=52">Videos</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/rotwkunofficial202/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/community/index.php?showforum=1477">Tournaments</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/rotwkunofficial202/portals.php?show=page&amp;name=why-play-202">2.02 Info</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/52/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/rotwkunofficial202/">RotWK Unofficial 202</a>
+	</li>
+	<li id="33" class="game_menu_nav_item">
+    	<ul id="subnav_33" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/starcraft2/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-SC2-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/starcraft2/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/starcraft2/replays.php?game=33">Replays</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/community/index.php?showforum=1948">Tournaments</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/starcraft2/videos.php?game=33&amp;show=index">Videos</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/33/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/starcraft2/">StarCraft 2</a>
+	</li>
+	<li id="62" class="game_menu_nav_item">
+    	<ul id="subnav_62" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/supremecommander2/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/-supremecommander2-Section.html">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/supremecommander2/replays.php?game=62">Replays</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/supremecommander2/tournaments.php?game=62">Tournaments</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/supremecommander2/portals.php?show=strategies">Strategies</a>
+            </li>
+                    <li class="col2">
+            <a href="http://www.gamereplays.org/supremecommander2/portals.php?show=page&amp;name=Supreme_Commander_2_Game_Info">Game Info</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/62/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/supremecommander2/">Supreme Commander 2</a>
+	</li>
+	<li id="82" class="game_menu_nav_item">
+    	<ul id="subnav_82" class="game_inner_menu">
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/tiberiumalliances/">Home</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/community/index.php?showforum=4157">Forums</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/tiberiumalliances/videos.php?game=82">Videos</a>
+            </li>
+                    <li class="col1">
+            <a href="http://www.gamereplays.org/tiberiumalliances/portals.php?show=page&amp;name=game_info">Game Information</a>
+            </li>
+                    <li class="col2 coltop">
+            <a href="http://www.gamereplays.org/tiberiumalliances/portals.php?show=strategies">Strategies</a>
+            </li>
+                </ul>
+        	<div class="thumbnail"><img src="http://www.gamereplays.org/community/gr_common/images/games/82/gameicon.jpg" width="40" height="40" /></div><a class="game_link" href="http://www.gamereplays.org/tiberiumalliances/">Tiberium Alliances</a>
+	</li>
+</ul>
+<div class="clearer"></div>
+</div>
+<div class="clearer"></div>						            </div>
+             </div>
+             <h1  id="gametitle">Supreme Commander</h1>
+         </div>
+         		<div class="portal_nav">
+		<ul id="portal_nav_menu">
+							<li class="off"><a href="http://www.gamereplays.org/supremecommander/">Home</a>											<ul class="sub_nav">
+																								<li  ><a href="http://www.gamereplays.org/supremecommander/portals.php?show=news_index">News</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/portals.php?show=features">Features</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/portals.php?show=esports">eSports</a></li>
+																																<li  ><a href="http://www.cafepress.com/gamereplays">Store</a></li>
+																					</ul>
+									</li>
+							<li class="off"><a href="http://www.gamereplays.org/community/-SupCom-Section.html">Forums</a>											<ul class="sub_nav">
+																								<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=758">General Discussion</a></li>
+																																															<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=1494">Tournaments</a></li>
+																																															<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=2537">Mess Hall</a></li>
+																																<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=1417">Tech Support</a></li>
+																					</ul>
+									</li>
+							<li id="default_menu" class="on"><a href="http://www.gamereplays.org/supremecommanderforgedalliance/replays.php?game=44">Replays</a>											<ul class="sub_nav">
+																								<li  ><a href="http://www.gamereplays.org/supremecommanderforgedalliance/replays.php?game=44">Forged Alliance Replays</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/replays.php?game=23&amp;show=upload">Upload</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/replays.php?game=23&amp;show=hof_replays">Hall of Fame</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/replays.php?game=23&amp;show=expert_replays">Expert Replays</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/replays.php?game=23&amp;show=leaderboard">Leaderboard</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/replays.php?game=23">SupCom Vanilla Replays</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/replays.php?game=23&amp;show=search">Search</a></li>
+																																<li  ><a href="http://www.gamereplays.org/supremecommander/replays.php?game=23&amp;show=faq">Help</a></li>
+																					</ul>
+									</li>
+							<li class="off"><a href="http://www.gamereplays.org/supremecommander/portals.php?show=strategies">Strategies</a>											<ul class="sub_nav">
+																								<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=1608">General</a></li>
+																																<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=1416">Team</a></li>
+																																<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=2057">Faction</a></li>
+																					</ul>
+									</li>
+							<li class="off"><a href="http://www.gamereplays.org/supremecommander/portals.php?show=page&amp;name=game_info">Game Info</a>											<ul class="sub_nav">
+																								<li  ><a href="http://www.gamereplays.org/supremecommander/portals.php?show=page&amp;name=game_info">General Info</a></li>
+																																<li  ><a href="http://www.gamereplays.org/community/index.php?showforum=1391">Screenshots</a></li>
+																					</ul>
+									</li>
+					</ul>
+	</div>
+	<div class="clearer"></div>			<div class="lower_container">
+				               						<div class="clearer"></div>
+			      							<div class="tab_bar">
+	                <ul class="system_tabs">
+                    	                    <li class="active"><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;tab_new=popular&amp;display_mode=standard">Popular Replays </a></li>
+	                    <li ><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;tab_new=upcoming&amp;display_mode=standard">Member Replays <span>1,023</span></a></li>
+						<li ><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=events">Events <span>131</span></a></li>
+												<li ><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=expert_replays">Expert Replays <span>21</span></a></li>
+	                    <li ><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=rotw_replays">ROTW <span>46</span></a></li>
+	                                                <li ><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=hof_replays">Hall of Fame <span>2</span></a></li>
+	                                            	                    <li ><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=search">Search</a></li>
+	                    <li ><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=faq">Help</a></li>
+	                                        	<li class="admin"><a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=upload&amp;">Upload</a></li>
+	                </ul>
+
+	              <!--<div class="matchup_type_area">
+	                    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;matchup_type_new=all&amp;display_mode=standard" class="matchup_type_navi matchup_type_navi_active">All </a>
+	                    	                    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;matchup_type_new=1&amp;display_mode=standard" class="matchup_type_navi">1v1</a>
+	                	                    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;matchup_type_new=2&amp;display_mode=standard" class="matchup_type_navi">2v2</a>
+	                	                    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;matchup_type_new=3&amp;display_mode=standard" class="matchup_type_navi">3v3</a>
+	                	                    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;matchup_type_new=4&amp;display_mode=standard" class="matchup_type_navi">4v4</a>
+	                	                    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;matchup_type_new=5&amp;display_mode=standard" class="matchup_type_navi">FFA</a>
+	                	                </div>-->
+	            </div>
+          	     	<div class="content_title_area" id="system_title_area">
+		 			 <h2>Supreme Commander Replays</h2>
+		               </div>
+<script type="text/javascript">
+//<![CDATA[
+// INIT
+var base_url_replaysystem 	= "http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;";
+//]]>
+</script>
+	<div id="panel_replay_list">
+		<div class="index_rightcolumn">
+						    					    		   		<div class="widget_box">
+	<div class="widget_box_title" id="hot_replays">Hot Upcoming Replays</div>
+			<div class="widget_notice">No hot upcoming replays to display.</div>
+	</div>
+		    		</div>
+		<div class="pagelinksbar" id="top">
+	<div class="replay_count"><a id="rss_image" alt="Follow these replays using your favorite feed reader!" title="Follow these replays using your favorite feed reader!" href="http://www.gamereplays.org/supremecommander/replays.php?game=23&amp;tab=popular&amp;active_tab=popular&amp;sort_by=popularity_date&amp;rss"></a> 62 Replays Found
+	</div>
+	<div class="index_sort">
+			<form class="index_sort_form" name="index_sort_form" id="index_sort_form" action="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;&amp;st=0&amp;active_tab=popular&amp;sort_by=popularity_date&amp;" method="post">
+				Order by:<select name="sort_by" size="1" id="sort_by" onChange="javascript:document.index_sort_form.submit()">
+										<option value="popularity_date" selected="selected">Recently popular</option>
+					<option value="week" >Most popular last week</option>
+					<option value="quarter" >Most popular last 3 months</option>
+															<option value="bump_date" >Last action</option>
+					<option value="last_comment" >Last reply</option>
+					<option value="latest_upload" >Date submitted</option>
+					<option value="downloads" >Downloads</option>
+					<option value="total_comments" >Posts/replies</option>
+					<option value="replay_map" >Map name</option>
+					<option value="wubs" >Wubs</option>
+				</select>
+			</form>
+	</div>
+	<div class="pagelinks">
+    				<span class='pagelink' id='page-jump'>3 Pages <img src='/community/replaysystem/images/menu_action_down.gif' alt='V' title='Open Menu' border='0' /></span><span class="pagecurrent">1</span><a class="pagelink" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;st=30" title="2">2</a><a class="pagelink" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;st=60" title="3">3</a><a class="pagelink" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;st=30" title="next">&gt;</a><script type="text/javascript">
+                    //<![CDATA[
+                    ipb_pages_shown++;
+                    var pgjmp = document.getElementById('page-jump');
+                    pgjmp.id  = 'page-jump-'+ipb_pages_shown;
+                    ipb_pages_array[ ipb_pages_shown ] = new Array('http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&game=23&tab=popular&show=index&active_tab=popular&sort_by=popularity_date&', 30, 62);
+                    menu_build_menu(
+                        pgjmp.id,
+                        new Array( "--NODIV--<div onmouseover='pages_st_focus("+ipb_pages_shown+")' class='popupmenu-category' align='center'>Jump to page</div>",
+                                    "<input type='text' size='5' name='st' id='st-"+ipb_pages_shown+"' /> <input type='button' class='button' onclick='do_multi_page_jump("+ipb_pages_shown+");' value='Go' />"));
+                    //]]>
+                    </script>
+		    </div>
+</div>		<ul class="replay_index">
+			  		<li >
+
+  						<div class="replay_index_button index_wubs">8</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=23163" onclick="track_event( {action:'replays',label:'replay_list_download',value:23163} );" title="Download HOLY_CRAP.supremecommanderreplay, 644.51k">5837</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=23163&st=0#post6540380" title="Last post: 28 Oct, 2009  by Micha&#322;">3</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_finns_revenge.jpg);">
+					<div class="map_overlay" title="Finn&#39;s Revenge" title="Finn&#39;s Revenge"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=shebear"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;shebear (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> shebear</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=blackop_"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;blackop_ (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> blackop_</a>
+			</div>
+
+						<div class="replay_title">Epic game on fins revenge (vanilla)</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=86054">shebear</a> - Popular 1 Jan, 2008 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=23163" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">5</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=21873" onclick="track_event( {action:'replays',label:'replay_list_download',value:21873} );" title="Download cheating_play.supremecommanderreplay, 1.48mb">3124</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21873&st=0#post3797091" title="Last post: 25 Nov, 2007  by Rocky_BalBoa">3</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_fields_of_isis.jpg);">
+					<div class="map_overlay" title="Fields of Isis" title="Fields of Isis"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<div class="team_matchup"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Feromonde (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;embc01sm14 (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Dirni (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;total666 (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /></div>
+			</div>
+
+						<div class="replay_title">2v2 T3/4 loooong battle</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=81991">salsacube</a> - Popular 24 Nov, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21873" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">5</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=21573" onclick="track_event( {action:'replays',label:'replay_list_download',value:21573} );" title="Download _PINK_AA_round3.supremecommanderreplay, 502.59k">2475</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21573&st=0#post3696786" title="Last post: 29 Oct, 2007  by Testingfreak">3</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=djj07"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;djj07 (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> djj07</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=_PINK"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;_PINK (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> _PINK</a>
+			</div>
+
+						<div class="replay_title">Aeon Ascendant: djj07 vs. _PINK</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=78658">djj07</a> - Popular 3 Nov, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21573" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">7</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=21629" onclick="track_event( {action:'replays',label:'replay_list_download',value:21629} );" title="Download AARound5.supremecommanderreplay, 352.3k">2467</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21629&st=0#post3791212" title="Last post: 23 Nov, 2007  by Rocky_BalBoa">4</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_finns_revenge.jpg);">
+					<div class="map_overlay" title="Finn&#39;s Revenge" title="Finn&#39;s Revenge"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Trozz"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Trozz (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Trozz</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=TheBigOne"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;TheBigOne (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> TheBigOne</a>
+			</div>
+
+						<div class="replay_title">Death by Sonar</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=82707">Trozz</a> - Popular 2 Nov, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21629" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">12</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=21329" onclick="track_event( {action:'replays',label:'replay_list_download',value:21329} );" title="Download blue_saltrock.supremecommanderreplay, 230.43k">3826</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21329&st=0#post3784400" title="Last post: 21 Nov, 2007  by Supertribe">7</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_saltrock_colony.jpg);">
+					<div class="map_overlay" title="Saltrock Colony" title="Saltrock Colony"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Beetlejuice"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Beetlejuice (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Beetlejuice</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=BlueScreenISU"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;BlueScreenISU (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> BlueScreenISU</a>
+			</div>
+
+						<div class="replay_title">Bluescreen_ISU vs Beetlejuice</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=88358">Beetles</a> - Popular 25 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21329" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">6</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=21174" onclick="track_event( {action:'replays',label:'replay_list_download',value:21174} );" title="Download MVictor_vs_JeffDease_Saltrock_Colony.supremecommanderreplay, 349.4k">1898</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21174&st=0#post3669086" title="Last post: 22 Oct, 2007  by Elohim">2</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_saltrock_colony.jpg);">
+					<div class="map_overlay" title="Saltrock Colony" title="Saltrock Colony"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=JeffDease"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;JeffDease (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> JeffDease</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=MVictor"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;MVictor (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> MVictor</a>
+			</div>
+
+						<div class="replay_title">MVictor vs JeffDease - Saltrock Colony</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=88273">MVictor1</a> - Popular 24 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21174" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">6</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=21164" onclick="track_event( {action:'replays',label:'replay_list_download',value:21164} );" title="Download TrozzPiipeti.supremecommanderreplay, 755.93k">1798</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21164&st=0#post3679973" title="Last post: 25 Oct, 2007  by Andronicus">2</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Trozz"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Trozz (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Trozz</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Piipeti"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Piipeti (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Piipeti</a>
+			</div>
+
+						<div class="replay_title">Trozz vs Piipeti</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=82707">Trozz</a> - Popular 24 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21164" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">7</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=18545" onclick="track_event( {action:'replays',label:'replay_list_download',value:18545} );" title="Download RagvsTrozz.supremecommanderreplay, 420.49k">1894</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18545&st=0#post3675868" title="Last post: 24 Oct, 2007  by Trozz">5</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_blasted_rock.jpg);">
+					<div class="map_overlay" title="Blasted Rock" title="Blasted Rock"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Ragnarok_X"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Ragnarok_X (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Ragnarok_X</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Trozz"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Trozz (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Trozz</a>
+			</div>
+
+						<div class="replay_title">Ragnarok vs Trozz</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=82707">Trozz</a> - Popular 23 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18545" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">5</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=21179" onclick="track_event( {action:'replays',label:'replay_list_download',value:21179} );" title="Download iseijin3.supremecommanderreplay, 374.92k">2981</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21179&st=0#post3934637" title="Last post: 3 Jan, 2008  by Irakly">7</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<div class="team_matchup"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Mapman (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;__Gaia__ (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Shockwavee (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;iseijin (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Avid (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Arno (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /></div>
+			</div>
+
+						<div class="replay_title">Skilled players illustrate some techniques</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=323">&#124;^&#124;AP&#124;^&#124;AN</a> - Popular 23 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=21179" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">10</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=18544" onclick="track_event( {action:'replays',label:'replay_list_download',value:18544} );" title="Download TacticVsRagnarok_X.supremecommanderreplay, 648.26k">2068</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18544&st=0#post3675112" title="Last post: 24 Oct, 2007  by ifan9701">10</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Tactic"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Tactic (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Tactic</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Ragnarok_X"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Ragnarok_X (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Ragnarok_X</a>
+			</div>
+
+						<div class="replay_title">Rank 137 Vs Rank 21 - A Poor Late Game</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=79384">Elohim</a> - Popular 15 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18544" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">5</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=18185" onclick="track_event( {action:'replays',label:'replay_list_download',value:18185} );" title="Download Tactic_loses_to_GreenHeaven.supremecommanderreplay, 406.82k">2634</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18185&st=0#post3630584" title="Last post: 13 Oct, 2007  by Elohim">5</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=GreenHeaven"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;GreenHeaven (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> GreenHeaven</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Tactic"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Tactic (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Tactic</a>
+			</div>
+
+						<div class="replay_title">Excellent Palms Battle - Under 30 min - D&#39;load i...</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=79384">Elohim</a> - Popular 8 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18185" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">9</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=18158" onclick="track_event( {action:'replays',label:'replay_list_download',value:18158} );" title="Download gg.supremecommanderreplay, 536.27k">2054</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18158&st=0#post3623421" title="Last post: 11 Oct, 2007  by SovietSoup">2</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_theta_passage.jpg);">
+					<div class="map_overlay" title="Theta Passage" title="Theta Passage"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=TNT104"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;TNT104 (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> TNT104</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Demonier"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Demonier (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Demonier</a>
+			</div>
+
+						<div class="replay_title">TNT vs Demonier</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=56973">TNT</a> - Popular 8 Oct, 2007 - v1.10.3269				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18158" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">9</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=18053" onclick="track_event( {action:'replays',label:'replay_list_download',value:18053} );" title="Download Spatzie92920076311.supremecommanderreplay, 806.3k">2016</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18053&st=0#post3585125" title="Last post: 2 Oct, 2007  by Adlermann">1</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_roanoke_abyss.jpg);">
+					<div class="map_overlay" title="Roanoke Abyss" title="Roanoke Abyss"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Spatzie"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Spatzie (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Spatzie</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=monarch"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;monarch (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> monarch</a>
+			</div>
+
+						<div class="replay_title">Huge battles on Ronoake</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=68798">Adlermann</a> - Popular 3 Oct, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=18053" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">5</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9648" onclick="track_event( {action:'replays',label:'replay_list_download',value:9648} );" title="Download ubercommandervDI_HEAVY.supremecommanderreplay, 540.9k">1697</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9648&st=0#post3555178" title="Last post: 25 Sep, 2007  by lauer">3</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_ambush_pass.jpg);">
+					<div class="map_overlay" title="Ambush Pass" title="Ambush Pass"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=ubercommander"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;ubercommander (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> ubercommander</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=DI_HEAVY"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;DI_HEAVY (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> DI_HEAVY</a>
+			</div>
+
+						<div class="replay_title">ubercommander vs di_heavy</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=36561">badfish</a> - Popular 25 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9648" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">4</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=17495" onclick="track_event( {action:'replays',label:'replay_list_download',value:17495} );" title="Download Tactic_vs_dives_on_Theta.supremecommanderreplay, 140.19k">1603</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=17495&st=0#post3523964" title="Last post: 17 Sep, 2007  by Elohim">3</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_theta_passage.jpg);">
+					<div class="map_overlay" title="Theta Passage" title="Theta Passage"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Tactic"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Tactic (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Tactic</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=dives"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;dives (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> dives</a>
+			</div>
+
+						<div class="replay_title">Good ole Theta Passage</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=79384">Elohim</a> - Popular 24 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=17495" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">6</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9692" onclick="track_event( {action:'replays',label:'replay_list_download',value:9692} );" title="Download owlmaster.supremecommanderreplay, 533.03k">1751</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9692&st=0#post3449326" title="Last post: 2 Sep, 2007  by kiwik">1</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_saltrock_colony.jpg);">
+					<div class="map_overlay" title="Saltrock Colony" title="Saltrock Colony"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=kiwik"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;kiwik (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> kiwik</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=owlmaster08"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;owlmaster08 (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> owlmaster08</a>
+			</div>
+
+						<div class="replay_title">kiwik vs owlmaster08</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=82173">kiwik</a> - Popular 24 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9692" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">6</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9791" onclick="track_event( {action:'replays',label:'replay_list_download',value:9791} );" title="Download Rhino_Drops_FTW.supremecommanderreplay, 553.96k">2200</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9791&st=0#post3466168" title="Last post: 5 Sep, 2007 ">4</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_setons_clutch.jpg);">
+					<div class="map_overlay" title="Seton&#39;s Clutch" title="Seton&#39;s Clutch"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<div class="team_matchup"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;ninjase (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;-Elder-ArchAngel (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;kelbane (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Latrociny (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;CrazyJavi (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;master_pain (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /></div>
+			</div>
+
+						<div class="replay_title">Flying Rhino invasion</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=449">ArchAngel</a> - Popular 18 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9791" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">6</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9993" onclick="track_event( {action:'replays',label:'replay_list_download',value:9993} );" title="Download Rafiel_BreningVsDI_AyeMosaram.supremecommanderreplay, 134.27k">1673</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9993&st=0#post3590361" title="Last post: 3 Oct, 2007  by Gandalf_Greyhame">3</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=DI_AyeMosaram"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;DI_AyeMosaram (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> DI_AyeMosaram</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Rafiel_Brening"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Rafiel_Brening (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Rafiel_Brening</a>
+			</div>
+
+						<div class="replay_title">Quick match on Open Plams</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=85215">The_Puppeteer</a> - Popular 16 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9993" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">6</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9988" onclick="track_event( {action:'replays',label:'replay_list_download',value:9988} );" title="Download SetonsClutch1v3.supremecommanderreplay, 856.83k">1851</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9988&st=0#post3514033" title="Last post: 15 Sep, 2007  by MinimaDeMalis">4</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_setons_clutch.jpg);">
+					<div class="map_overlay" title="Seton&#39;s Clutch" title="Seton&#39;s Clutch"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<div class="team_matchup"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;N-TWO-O (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;MortMan79 (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;zeroxfour (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;GW007 (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /></div>
+			</div>
+
+						<div class="replay_title">N-TWO-O vs 3</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=63371">N-TWO-O</a> - Popular 16 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9988" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">6</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9861" onclick="track_event( {action:'replays',label:'replay_list_download',value:9861} );" title="Download dangerDAN_962007191014.supremecommanderreplay, 390.28k">1772</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9861&st=0#post3481671" title="Last post: 9 Sep, 2007 ">4</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_blasted_rock.jpg);">
+					<div class="map_overlay" title="Blasted Rock" title="Blasted Rock"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Scyn"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Scyn (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Scyn</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=dangerDAN_"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;dangerDAN_ (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> dangerDAN_</a>
+			</div>
+
+						<div class="replay_title">Saved by the Bell</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=85841">Scyn</a> - Popular 12 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9861" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">28</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9834" onclick="track_event( {action:'replays',label:'replay_list_download',value:9834} );" title="Download petraquevslexluthor.supremecommanderreplay, 869.56k">3299</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9834&st=0#post6390651" title="Last post: 12 Sep, 2009  by Replaysystem">10</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_finns_revenge.jpg);">
+					<div class="map_overlay" title="Finn&#39;s Revenge" title="Finn&#39;s Revenge"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=petraque"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;petraque (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> petraque</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=LexLuthor"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;LexLuthor (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> LexLuthor</a>
+			</div>
+
+						<div class="replay_title">mercy 0 uef 1</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=80697">petraque</a> - Popular 7 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9834" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">7</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9759" onclick="track_event( {action:'replays',label:'replay_list_download',value:9759} );" title="Download Epictourney.supremecommanderreplay, 490.97k">2151</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9759&st=10#post3466363" title="Last post: 5 Sep, 2007 ">14</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=kiwik"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;kiwik (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> kiwik</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Leaf"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Leaf (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Leaf</a>
+			</div>
+
+						<div class="replay_title">EPIC GAME&#33; Leaf vs kiwik</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=82173">kiwik</a> - Popular 5 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9759" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">13</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9691" onclick="track_event( {action:'replays',label:'replay_list_download',value:9691} );" title="Download petraque_vs_thelitleone.supremecommanderreplay, 282.39k">2036</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9691&st=0#post3470090" title="Last post: 6 Sep, 2007 ">4</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_winter_duel.jpg);">
+					<div class="map_overlay" title="Winter Duel" title="Winter Duel"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=petraque"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;petraque (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> petraque</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=TheLittleOne"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;TheLittleOne (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> TheLittleOne</a>
+			</div>
+
+						<div class="replay_title">4eme game tournament</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=80697">petraque</a> - Popular 3 Sep, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9691" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">8</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9294" onclick="track_event( {action:'replays',label:'replay_list_download',value:9294} );" title="Download T2_FTW.supremecommanderreplay, 681.31k">1951</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9294&st=0#post3424668" title="Last post: 27 Aug, 2007 ">3</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_setons_clutch.jpg);">
+					<div class="map_overlay" title="Seton&#39;s Clutch" title="Seton&#39;s Clutch"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<div class="team_matchup"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Seither (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Frankablu (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;bustaplz (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;-Elder-ArchAngel (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;alphachuck (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Frelon1 (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /></div>
+			</div>
+
+						<div class="replay_title">Pure Tier 2 FTW</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=449">ArchAngel</a> - Popular 27 Aug, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9294" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">20</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9387" onclick="track_event( {action:'replays',label:'replay_list_download',value:9387} );" title="Download epicwithinterestingending.supremecommanderreplay, 1.23mb">3082</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9387&st=10#post3518626" title="Last post: 16 Sep, 2007  by Brother Gilburt">19</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=BTU_PurpleHaze"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;BTU_PurpleHaze (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> BTU_PurpleHaze</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Trozz"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Trozz (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Trozz</a>
+			</div>
+
+						<div class="replay_title">Unbelievable Finish</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=82707">Trozz</a> - Popular 26 Aug, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9387" class="replay_entry_link"></a>
+  </li>
+  			  		<li class="expert">
+
+  						<div class="replay_index_button index_wubs">19</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9331" onclick="track_event( {action:'replays',label:'replay_list_download',value:9331} );" title="Download DIe_Martega81720070450.supremecommanderreplay, 280.79k">3833</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9331&st=0#post9204076" title="Last post: 25 Sep, 2007  by Suprise">10</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=DIe_Martega"><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;DIe_Martega (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> DIe_Martega</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Sir_Loui"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Sir_Loui (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Sir_Loui</a>
+			</div>
+
+						<div class="replay_title">Sir_Loui vs DIe_Martega</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=84443">Martega</a> - Popular 26 Aug, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9331" class="replay_entry_link"></a>
+  </li>
+  			  		<li class="expert">
+
+  						<div class="replay_index_button index_wubs">11</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=9242" onclick="track_event( {action:'replays',label:'replay_list_download',value:9242} );" title="Download LastGame.supremecommanderreplay, 620.8k">2550</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9242&st=10#post3404426" title="Last post: 23 Aug, 2007 ">13</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_seraphim_glaciers.jpg);">
+					<div class="map_overlay" title="Seraphim Glaciers" title="Seraphim Glaciers"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Poita_"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Poita_ (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Poita_</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Sir_Loui"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Sir_Loui (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Sir_Loui</a>
+			</div>
+
+						<div class="replay_title">Sir_Loui Vs Poita_</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=76725">Sir_Loui</a> - Popular 22 Aug, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=9242" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">9</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=8645" onclick="track_event( {action:'replays',label:'replay_list_download',value:8645} );" title="Download WORLD_WAR_III.supremecommanderreplay, 1.98mb">2558</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=8645&st=0#post3354671" title="Last post: 14 Aug, 2007 ">6</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_setons_clutch.jpg);">
+					<div class="map_overlay" title="Seton&#39;s Clutch" title="Seton&#39;s Clutch"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<div class="team_matchup"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;thepurestdemon (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;L-EE (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Neil_Blade (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Greedy_Smurf (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;spirit09 (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Imperial-ip (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /></div>
+			</div>
+
+						<div class="replay_title">WORLD WAR III</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=70557">SuperiorX</a> - Popular 11 Aug, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=8645" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">19</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=8827" onclick="track_event( {action:'replays',label:'replay_list_download',value:8827} );" title="Download FFA_open_palms.supremecommanderreplay, 1.08mb">3426</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=8827&st=0#post3428017" title="Last post: 28 Aug, 2007 ">8</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_open_palms.jpg);">
+					<div class="map_overlay" title="Open Palms" title="Open Palms"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<div class="team_matchup"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Beetlejuice (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;petraque (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;crako (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;znp (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Minidoow (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /><img src="/community/replaysystem/images/vs.gif" /><img src="/community/replaysystem/games_files/23/armies/cybran.png" alt="Cybran" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Romleth (Cybran)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /></div>
+			</div>
+
+						<div class="replay_title">FFA 6 players Open Palms</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=83489">Minidoow</a> - Popular 10 Aug, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=8827" class="replay_entry_link"></a>
+  </li>
+  			  		<li >
+
+  						<div class="replay_index_button index_wubs">15</div>
+
+  			        	<a class="replay_index_button index_download" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=download&amp;&amp;id=8539" onclick="track_event( {action:'replays',label:'replay_list_download',value:8539} );" title="Download SkyLog_vs_Diam.supremecommanderreplay, 245.18k">2831</a>
+
+   						<a class="replay_index_button index_comments_new" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=8539&st=0#post3358989" title="Last post: 14 Aug, 2007 ">4</a>
+
+   						<div class="map_foundation">
+				<div class="map_image" style="background:url(/community/replaysystem/games_files/23/maps/small_emerald_crater.jpg);">
+					<div class="map_overlay" title="Emerald Crater" title="Emerald Crater"></div>
+				</div>
+			</div>
+
+									
+						<div class="matchup">
+				<a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=Diam"><img src="/community/replaysystem/games_files/23/armies/aeon.png" alt="Aeon" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;Diam (Aeon)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> Diam</a><a class="matchup_teambg" href="replays.php?game=23&show=search_submit&search_player=SkyLog"><img src="/community/replaysystem/games_files/23/armies/uef.png" alt="UEF" onmouseover="$.popup.open('&lt;div class=&quot;player_tooltip&quot;&gt;&lt;div&gt;SkyLog (UEF)&lt;/div&gt;&lt;/div&gt;', {'anchor': this, 'anchorPoint': 'top-left', 'offsetx': -32, 'offsety': -51, 'show': false, 'delay': 250}).fadeIn(250)" onmouseout="$.popup.close()" /> SkyLog</a>
+			</div>
+
+						<div class="replay_title">SkyLog vs Diam on emerald crater</div>
+
+						<div class="information">
+		By: <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=member_replays&amp;member_id=81656">SkyLog</a> - Popular 5 Aug, 2007 - v1.10.3260				 			</div>
+
+		  	    <a href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;show=details&amp;id=8539" class="replay_entry_link"></a>
+  </li>
+  	</ul>
+		<div class="pagelinksbar" id="bottom">
+			<form action="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;&amp;st=0&amp;active_tab=popular&amp;sort_by=popularity_date&amp;" method="post">
+			<div class="index_search"><input name="search" type="text" size="30" maxlength="50" value="Quick Search Popular Replays..." onclick="removeElement()" onfocus="this.value = ''; this.className = 'search_input_focus';" class="search_input" /> <input class="smallbutton" type="image" src="/community/replaysystem/images/go_button.gif" name="search_submit" value="" /></div>
+		</form>
+		<div class="pagelinks">
+    				<span class='pagelink' id='page-jump'>3 Pages <img src='/community/replaysystem/images/menu_action_down.gif' alt='V' title='Open Menu' border='0' /></span><span class="pagecurrent">1</span><a class="pagelink" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;st=30" title="2">2</a><a class="pagelink" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;st=60" title="3">3</a><a class="pagelink" href="http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&amp;game=23&amp;tab=popular&amp;show=index&amp;active_tab=popular&amp;sort_by=popularity_date&amp;st=30" title="next">&gt;</a><script type="text/javascript">
+                    //<![CDATA[
+                    ipb_pages_shown++;
+                    var pgjmp = document.getElementById('page-jump');
+                    pgjmp.id  = 'page-jump-'+ipb_pages_shown;
+                    ipb_pages_array[ ipb_pages_shown ] = new Array('http://www.gamereplays.org/supremecommander/replays.php?s=75b2fae9021641ca2813019edfe7faf5&game=23&tab=popular&show=index&active_tab=popular&sort_by=popularity_date&', 30, 62);
+                    menu_build_menu(
+                        pgjmp.id,
+                        new Array( "--NODIV--<div onmouseover='pages_st_focus("+ipb_pages_shown+")' class='popupmenu-category' align='center'>Jump to page</div>",
+                                    "<input type='text' size='5' name='st' id='st-"+ipb_pages_shown+"' /> <input type='button' class='button' onclick='do_multi_page_jump("+ipb_pages_shown+");' value='Go' />"));
+                    //]]>
+                    </script>
+			</div>
+</div>
+<div class="clearer"></div>	</div>
+	<div class="content_footer_area" id="panel_footer">
+	<b>0</b> user(s) active in the past 15 minutes. <b>0</b> guests and <b>0</b> members.
+</div>
+<div class="clearer"></div>
+<!-- commented out for #14 testing phase
+<div class="section">
+	
+</div>
+--><div class="clearer"></div></div>
+
+<div class="pagefooter">
+	<div id="footer_disclaimer">
+		GameReplays.org is independently owned / operated, and participates in the GameRevolution ad network.
+		<div id="footer_disclaimer_logo_float"><script src="http://cdn.assets.craveonline.com/comscore_branding/cr-branding.js?useDarkLogo=true" type="text/javascript"></script></div>
+	</div>
+	<div class="footerlinks">
+		<a href="http://www.gamereplays.org/portals.php?show=about">About</a> | <a href="http://www.gamereplays.org/portals.php?show=privacy">Privacy Policy</a> | <a href="http://www.gamereplays.org/portals.php?show=contact">Contact</a> | <a href="http://www.gamereplays.org/community/help.html">Help System</a>
+	</div>
+	&copy; 2014 GameReplays.org -- Invision Power Board &copy; 2014 IPS, Inc. Licensed to: GameReplays.org
+	<div class="clearer"></div>
+</div>
+<div class="clearer"></div>
+</div>
+<!-- begin tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var memberId = "0";
+var memberGroup = "Guests";
+memberGroup = memberGroup.split(" ").join("");
+var pageTracker = _gat._getTracker("UA-150646-2");
+if(memberId > 0 && memberId != ''){
+	pageTracker._setCustomVar(1, "MemberGroup", memberGroup, 3);
+	pageTracker._setCustomVar(2, "MemberID", memberId, 3);
+	pageTracker._setCustomVar(3, "Members", 'true', 3);
+}else{
+	pageTracker._setCustomVar(4, "Guests", 'true', 3);
+}
+pageTracker._trackPageview();
+pageTracker._trackPageLoadTime();
+} catch(err) {}</script>
+
+<script type='text/javascript'>
+	//<![CDATA[
+	menu_do_global_init();//]]>
+</script>
+</div>
+</div>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","e42c471be9","2128260","bgZRMBRRWxJZVEEKCVdMZhYPH1YOVVpADQ9NGhwNCFRQGRZHXRM=",0,359,new Date().getTime(),"","","","",""]);</script></body>
+</html>
